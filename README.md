@@ -11,3 +11,4 @@ Plugins
 ====================
 - NERDTree
 - SlipMate
+- JSHint --> https://github.com/wookiehangover/jshint.vim
